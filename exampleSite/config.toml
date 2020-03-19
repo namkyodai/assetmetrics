@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "Meghna"
+baseURL = "https://assetmetrics.netlify.com"
+title = "AssetMetrics"
 theme = "assetmetrics"
 # post pagination
 paginate = "6"
@@ -52,7 +52,7 @@ URL = "services"
 weight = 2
 
 [[menu.main]]
-name = "Portfolio"
+name = "Projects"
 URL = "portfolio"
 weight = 3
 
@@ -62,8 +62,9 @@ URL = "team"
 weight = 4
 
 [[menu.main]]
-name = "Pricing"
-URL = "pricing"
+name = "Library"
+link = "articles/libary.md"
+#URL = "articles"
 weight = 5
 
 [[menu.main]]
@@ -137,9 +138,9 @@ weight = 1
 home = "Home"
 
 ################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
+# [Languages.fr]
+# languageName = "Fr"
+# languageCode = "fr-fr"
+# contentDir = "content/french"
+# weight = 2
+# home = "Accueil"

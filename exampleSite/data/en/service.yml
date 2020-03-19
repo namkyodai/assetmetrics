@@ -4,31 +4,31 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : Asset Management
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : Determination of Optimal Preventive Intervention based on ISO 55000, RbAM, APM, Reliability Engineering, Optimization, Statistics, Preventive Intervention.
+
     # service item loop
-    - name : Responsive Design
+    - name : Due Diligence
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : Assisting Clients on strategic decisions on Acquisition, Occupation, Disposal, and Development of Properties through Environmental & Technical Due Diligence.
+
     # service item loop
-    - name : Media &amp; Advertisement
+    - name : Building &amp; Plant Audits
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : Providing various types of tests for buildings and engineering systems to capture assets reliability & efficiency, then proposing improvement programs for saving OPEX.
+
     # service item loop
-    - name : Graphic Design
+    - name : Data Analytics
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : Using time series and panel dataset on engineering's parameters and variables of system, we can detect trends, establish correlation, and perform inference analysis that will support Clients on arriving at optimal business solutions.
+
     # service item loop
-    - name : Apps Development
+    - name : Digital Monitoring
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : Utilizing global digital platform and solutions and frontier development on monitoring technique for engineering systems such as the use of drone for carrying out inspections on road sections, bridges, and other engineering systems.
+
     # service item loop
-    - name : Networking
+    - name : Traffic Impact Assessment
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : We conduct TIA for development project and help Clients to acquire regulatory permits. Our solutions encompases also workzone optimization on road network to minimize negative impacts.

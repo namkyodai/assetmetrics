@@ -4,13 +4,13 @@ about:
   title : About Us
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : We're Engineers
+    content : Civil, Structure, Mechanical, Electrical, Fire Protection, Reliability, HAVC, Plumping, Asset Management, Technical Due Diligence.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : We're Data Scientists
+    content : We apply various data engineering and business analytical platforms to derive the best outcomes (R, Python, MySQL, MongdoDB, Tableu, PowerBI).
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : We're Professional
+    content : We are attentive and punctual in providing adequate level of services to Clients, working with Clients using Agile management practice and collaboration.
