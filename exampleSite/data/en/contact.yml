@@ -1,6 +1,6 @@
 ############################## Contact #############################
 contact:
-  enable : false
+  enable : true
   title : Contact Us
   subtitle : Contact Details
   #content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
@@ -8,21 +8,20 @@ contact:
 
   contact_details :
 
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Vietnam Office"
-    - icon : ti-line-dotted
-      info : "2001B - C1, Rung Co str, Ecopark, Hung Yen, Vietnam "
+  #  - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+#      info : "Vietnam Office"
+#    - icon : ti-line-dotted
+#      info : "2001B - C1, Rung Co str, Ecopark, Hung Yen, Vietnam "
 
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +84-9-8378-0100"
+#    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+#      info : "Phone: +84-9-8378-0100"
 
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "Philippines Office"
-
-    - icon : ti-line-dotted
-      info : "Philippines Office - RockWell, Makati"
+  #  - icon : ti-line-dotted
+      info : "Mr. Nam LE"
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +63-92-9089-8110"
+      info : "Phone: +63-927-022-1899"
 
   #  - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
   #    info : "Fax: +880-31-000-000"
