@@ -28,7 +28,7 @@ Run this command
 hugo new site meghna-hugo
 ```
 and then go to the themes folder inside of meghna-hugo folder. You can also use this command ```cd meghna-hugo/themes``` for going to this folder.
-Then run the command 
+Then run the command
 ```
 git clone git@github.com:themefisher/meghna-hugo.git
 ```
