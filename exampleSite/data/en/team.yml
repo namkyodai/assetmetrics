@@ -1,68 +1,68 @@
 ############################### team ############################
 team:
-  enable : false
+  enable : true
   title : Our Team
   team_member :
     # team member loop
-    - name : Nam Le (PhD)
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
+    - name : Nam Le
+      image_webp : images/team/consultant.webp
+      image : images/team/consultant.jpg
       designation : Manager, Asset Management Specialist
-      content : Kyoto University's graduate and used to work for ETH Zurich and Osaka University as lecturer in reliability engineering and asset management. Nam has developed a number of software and tool that allow automation in TDD and Asset Management works.
+    #  content : Kyoto University's graduate and used to work for ETH Zurich and Osaka University as lecturer in reliability engineering and asset management. Nam has developed a number of software and tool that allow automation in TDD and Asset Management works.
       social :
     #    - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
     #      link : "#"
     #    - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
     #      link : "#"
-    #    - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-    #      link : "#"
-    #    - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-    #      link : "#"
+       - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+         link : "https://www.linkedin.com/in/namlt"
+       - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+         link : "https://namkyodai.netlify.com"
 
     # team member loop
     - name : Paul Magbanua
-      image_webp : images/team/team-2.webp
-      image : images/team/team-2.jpg
+      image_webp : images/team/consultant.webp
+      image : images/team/consultant.jpg
       designation : Manager, Senior Mechanical Engineer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    #   social :
+        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        # - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
 
     # team member loop
     - name : Mark Ogot
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
+      image_webp : images/team/consultant.webp
+      image : images/team/consultant.jpg
       designation : Team Lead, Senior Structural Engineer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    #   social :
+        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        # - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
 
     # team member loop
-    - name : Mo. Kha. Alamgir
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
-      designation : Team Lead, Senior Structural Engineer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+    # - name : Mo. Kha. Alamgir
+    #   image_webp : images/team/team-4.webp
+    #   image : images/team/team-4.jpg
+    #   designation : Team Lead, Senior Structural Engineer
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    #   social :
+    #     - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+    #     - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+    #     - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+    #     - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"

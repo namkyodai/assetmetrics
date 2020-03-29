@@ -62,10 +62,10 @@ weight = 3
 # URL = "portfolio"
 # weight = 3
 #
-# [[menu.main]]
-# name = "Team"
-# URL = "team"
-# weight = 4
+[[menu.main]]
+name = "Team"
+URL = "team"
+weight = 4
 
 # [[menu.main]]
 # name = "Pricing"
