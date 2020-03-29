@@ -4,29 +4,22 @@
 - id: projectTitle
   translation: Project Highlights
 
-- id: readMore
-  translation: Read more
-
-- id: viewAllPost
-  translation: View All Post
-
 - id: viewAllProject
   translation: View More Projects
 
+- id: readMore
+  translation: Read more
+- id: viewAllPost
+  translation: View All Post
 - id: share
   translation: Share
-
 - id: aboutAuthor
   translation: About author
-
 - id: authorsPosts
   translation: Author's posts
-
 - id: submit
   translation: Submit
-
 - id: all
   translation: All
-
 - id: copyright
-  translation: copyright &copy; 2020 [AssetMetrics](https://assetmetrics.netlify.com) all right reserved
+  translation: copyright &copy; 2020 [Asset Metrics](https://assetmetrics.netlify.com) all right reserved

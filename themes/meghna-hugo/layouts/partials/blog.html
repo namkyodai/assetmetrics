@@ -13,13 +13,13 @@
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
 
-			{{ range first 3 (where .Site.RegularPages "Section" "==" "artile")}}
+			{{ range first 3 (where .Site.RegularPages "Section" "==" "blog")}}
 			{{ .Render "article"}}
 			{{ end }}
 
 			<div class="all-post text-center col-lg-12">
 				<a class="btn btn-main"
-					href="{{ `article` | absLangURL }}">{{ i18n "viewAllPost" }}</a>
+					href="{{ `blog` | absLangURL }}">{{ i18n "viewAllPost" }}</a>
 			</div>
 		</div>
 	</div>
