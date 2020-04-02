@@ -6,7 +6,7 @@ summary: "20 wastewater utilities of Manila Water has been accessed for their co
 #tags: [Project Management, Plant Audit, Asset Management, Water]
 #categories: [Project Management, Plant Audit, Asset Management]
 date: 2020-02-10T11:08:22+08:00
-image_webp: images/project/2020dao.webp
+image_webp: /images/project/2020dao.webp
 image: images/project/2020dao.jpg
 
 ---

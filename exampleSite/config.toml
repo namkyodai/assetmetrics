@@ -54,7 +54,7 @@ weight = 2
 [[menu.main]]
 name = "Project"
 URL = "project"
-weight = 3
+weight = 4
 
 
 # [[menu.main]]
@@ -87,6 +87,10 @@ name = "Library"
 URL = "/library"
  weight = 6
 
+ [[menu.static]]
+ name = "We Offer"
+ URL = "/business"
+  weight = 3
 
 
 #### external / static link ####

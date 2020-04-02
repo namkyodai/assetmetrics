@@ -7,17 +7,15 @@ authors: []
 tags: [Technical Due Diligence]
 categories: [Technical Due Diligence]
 #date: 2016-04-19T11:08:22+08:00
-
+image_webp: images/business/tdd.webp
+image: images/business/tdd.png
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -54,4 +52,4 @@ The benefits of having us to provide TDD services to you includes, but not limit
 -	Providing a level of security and protection for investors regarding acquisition or investment on assets;
 -	Providing a certain level of confident on asset pricing for allocation of risk or price negotiations.
 
-Back to [Services](/service)
+<!-- Back to [Services](/service) -->

@@ -7,17 +7,15 @@ authors: []
 tags: [Digital Monitoring, Drone Technology, Visual Inspection]
 categories: [Visual Inspection, Asset Management, Monitoring]
 #date: 2016-04-19T11:08:22+08:00
-
+image_webp: images/business/digitalmonitor.webp
+image: images/business/digitalmonitor.png
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -58,7 +56,7 @@ Some of the areas we are already making a difference:
 - Site Monitoring & Analysis
 - Vessel Volumetric Analysis.
 
-Our in-house developed software enables the automation of detecting defects and deformations in roads, bridges, and facades through machine learning capabilities and drones, thereby allowing clients to have increased accuracy in reporting, prioritise rectification works and carry out preventive maintenance.  Our solutions also provide efficiencies in volumetric computations, site safety inspections and progress monitoring through model generation software and drones. The data captured can form documentations useful for site control and dispute resolution.
+Our in-house developed software enables the automation of detecting defects and deformations in roads, bridges, and facades through machine learning capabilities and drones, thereby allowing clients to have increased accuracy in reporting, prioritize rectification works and carry out preventive maintenance.  Our solutions also provide efficiencies in volumetric computations, site safety inspections and progress monitoring through model generation software and drones. The data captured can form documentations useful for site control and dispute resolution.
 
 KEY OUTCOMES
 
@@ -71,7 +69,7 @@ Using drone technology, a major landfill project was able to better manage proje
 
 To learn more about our drone and data optimization solutions, feel free to contact [the team](le.nam@arcadis.com)
 
-![](/img/auditing/drone.png)
+![](/images/auditing/drone.png)
 
 
 ## High Definition Camera for Road Condition Detection
@@ -80,7 +78,7 @@ To learn more about our drone and data optimization solutions, feel free to cont
 
 
 The model that Arcadis has employed for highways and roads authorities automatically recognizes the type of damage, type of repair and other assets on or alongside the road. For instance the type of road markings and street furniture. The images are analyzed at the push of a button using a software module developed in-house. As a result, visual inspections can be carried out cheaper and more safely, roads can be inspected faster and more easily and road authorities can intervene more quickly, preventing more major repairs.
-![](/img/auditing/gopro.png)
+![](/images/auditing/gopro.png)
 
 ### How does the method work?
 Images are taken with a camera of a certain road section using annual images from CycloMedia or with a GoPro. These images are then read in to a custom developed software module, which is based on an image database that the Arcadis experts have filled with data on inspected roads. This is used by the deep neural network model to automatically recognize road defects and assets.
@@ -94,4 +92,4 @@ The image recognition model can recognize 95% or more of all road defects (such 
 
 
 
-![](/img/auditing/roadinspection02.png)
+![](/images/auditing/roadinspection02.png)

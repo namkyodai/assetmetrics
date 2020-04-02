@@ -7,17 +7,15 @@ authors: []
 tags: [Data Solutions and Analytics, Big Data Analysis, Operations Research]
 categories: [Data Solutions and Analytics]
 #date: 2016-04-19T11:08:22+08:00
-
+image_webp: images/business/datasolution.webp
+image: images/business/datasolution.png
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -59,13 +57,13 @@ Some of state-of-the-art data software and tools will be used to conduct
 - Data transformation
 - Data modeling
 
-| ![](/img/R01.png)|![](/img/analysis/ch05_fig_energy_correlation.png)
+| ![](/images/auditing/R01.png)|![](/images/analysis/ch05_fig_energy_correlation.png)
 |:---:|:---:|
 
 #### Analytical Software
 Our data team use R and Python extensively for data mining, data transformation, quantitative analysis, data modelling, and data visualization.
 
-| ![](/img/R.png)|![](/img/python.png)
+| ![](/images/auditing/R.png)|![](/images/auditing/python.png)
 |:---:|:---:|
 
 Other Business Intelligence and Analytics Software such as [Power BI](https://powerbi.microsoft.com/en-us/) and [Tableau](https://www.tableau.com/) are also utilized.
@@ -73,5 +71,5 @@ Other Business Intelligence and Analytics Software such as [Power BI](https://po
 #### Interactive and Reproductive Reporting and Apps
 Interactive Reports and Apps can be generated using [R Shiny](https://shiny.rstudio.com/) and [Markdown](https://rmarkdown.rstudio.com/) language. This approach will guarantee transparency and visibility of results to Clients.
 
-| ![](/img/R02.png)|![](/img/R03.png)
+| ![](/images/auditing/R02.png)|![](/images/auditing/R03.png)
 |:---:|:---:|

@@ -41,7 +41,7 @@ slides: ""
 ---
 Condition of road sections and bridge components deteriorate overtime due to environmental and temperature variation as well as volumes and characteristics of vehicles daily. Infrastructure managers are interested in capturing the conditions and in using the captured date to predict deterioration speed so as they can proactively allocate resources for executing preventive intervention programs.
 
-Our team is able and capable to provide Clients with walk-through inspection and using [digital solutions](/service/datasolutions) and [technologies](/service/digitalmornitoring) to capture relevant road and bridge distresses and using either deterministic or probabilistic models to estimate deterioration speed.
+Our team is able and capable to provide Clients with walk-through inspection and using [digital solutions](/business/datasolutions) and [technologies](/business/digitalmornitoring) to capture relevant road and bridge distresses and using either deterministic or probabilistic models to estimate deterioration speed.
 
 Combining the results of predictive and reliability models with life cycle cost analysis, we are able to advise Clients on optimal inspection scheme (e.g. interval of inspection) instead of spending significant expenses on too frequent collection of data, which might result in problem with data storage as well as efforts to process them without much of positive impacts.
 
@@ -49,4 +49,4 @@ Combining the results of predictive and reliability models with life cycle cost 
 
 
 
-Back to [Services](/service)
+<!-- Back to [Services](/service) -->

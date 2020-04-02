@@ -1,12 +1,11 @@
 - id: blogTitle
   translation: Latest Post
-
 - id: projectTitle
   translation: Project Highlights
-
 - id: viewAllProject
   translation: View More Projects
-
+- id: businessTitle
+  translation: We Offer Professional Services
 - id: readMore
   translation: Read more
 - id: viewAllPost
