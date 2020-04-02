@@ -3,14 +3,14 @@ about:
   enable : true
   title : About Us
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-ruler-alt-2 # themify icon pack : https://themify.me/themify-icons
     title : We're Engineers
     content : Civil, Structure, Mechanical, Electrical, Fire Protection, Reliability, HAVC, Plumping, Asset Management, Technical Due Diligence.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-ink-pen # themify icon pack : https://themify.me/themify-icons
     title : We're Data Scientists
     content : We apply various data engineering and business analytical platforms to derive the best outcomes (R, Python, MySQL, MongdoDB, Tableu, PowerBI).
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-agenda # themify icon pack : https://themify.me/themify-icons
     title : We're Professional
     content : We are attentive and punctual in providing adequate level of services to Clients, working with Clients using Agile management practice and collaboration.
