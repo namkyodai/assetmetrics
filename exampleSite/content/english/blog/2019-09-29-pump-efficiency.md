@@ -5,7 +5,7 @@ title: Return on Investment (ROI) for Intervention of Pumps under uncertainties
 #subtitle: Combining multiple excel worksheets and multiple csv/excel files in a dataframe?
 date: 2019-09-29T23:30:45+08:00
 tags: [Pump efficiency, Pump Replacement, Asset Management]
-summary : ""
+#summary : "  "
 image:
   caption: ""
   focal_point: ""

@@ -15,8 +15,14 @@ html {
 body {
   background-color: #353b43;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color: #BFC9CA;
   -webkit-font-smoothing: antialiased;
+
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
 }
 
 h1,
@@ -303,7 +309,7 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #fff;
+  color: #F5CBA7;
 }
 
 .title h2 span {
@@ -339,6 +345,7 @@ a:hover {
   bottom: 0;
   left: 0;
 }
+
 
 .header-bradcrumb {
   background: transparent;
@@ -1216,23 +1223,23 @@ a:hover {
 /*=================================================================
   Latest Posts
 ==================================================================*/
-.note {
+/* .note {
   background-color: #292F36;
   border: 1px solid #4e595f;
-}
+} */
 
-.post-block {
+/* .post-block {
   background-color: #292F36;
   margin-bottom: 10px;
-}
+} */
 
 .post-block .content {
-  padding: 20px;
+  padding: 0px;
 }
 
 .post-block .content h3 {
-  margin: 0 0 6px;
-  font-size: 20px;
+  margin: 0 0 1px;
+  font-size:20px;
   line-height: 1.5;
   text-transform: capitalize;
 }

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Road and Bridge Inspection"
-summary: ""
+#summary : "  "
 authors: []
 tags: [Asset Management, Monitoring, Visual Inspection, Digital Solutions]
 #categories: [Asset Management, Plant Audit]

@@ -6,7 +6,7 @@ authors: []
 tags: [Plant Audit, Asset Management, Monitoring, Inspection]
 categories: [Asset Management, Plant Audit]
 date: 2020-02-11T11:08:22+08:00
-
+#summary : "  "
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

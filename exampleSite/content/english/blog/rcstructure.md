@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Reinforced Concrete (RC) Compressive Test and Cracking Prediction"
-summary: ""
+#summary : "  "
 authors: []
 tags: [Plant Audit, Asset Management, Monitoring, Inspection, Concrete Structure]
 categories: [Asset Management, Plant Audit]

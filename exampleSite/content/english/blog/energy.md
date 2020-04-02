@@ -4,6 +4,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+#summary : "  "
 ---
 
 ### Energy Audit for Buildings

@@ -9,6 +9,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+#summary : "  "
 ---
 
 This example shows a very simple regression analysis using fuel data of 38 cars. Code is copied from the book “Data Mining and Business Analytics with R” with minor modification on the graphs.
