@@ -62,10 +62,10 @@ weight = 3
 # URL = "portfolio"
 # weight = 3
 #
-[[menu.main]]
-name = "Team"
-URL = "team"
-weight = 4
+# [[menu.main]]
+# name = "Team"
+# URL = "team"
+# weight = 4
 
 # [[menu.main]]
 # name = "Pricing"
@@ -77,15 +77,15 @@ name = "Blog"
 URL = "blog"
 weight = 5
 
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 6
+[[menu.static]]
+name = "Link"
+URL = "https://namkyodai.netlify.com"
+weight = 7
 
 [[menu.static]]
 name = "Library"
 URL = "/library"
- weight = 7
+ weight = 6
 
 
 
@@ -97,18 +97,18 @@ URL = "/library"
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+#logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
+description = "Technical Due Diligence, Asset Management, Data Solution"
+author = "Nam Le"
 # Google Analitycs
-google_analitycs_id = "" # Your ID
+google_analitycs_id = "UA-20712415-3" # Your ID
 # post share
 post_share = true
 
 # preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/logo.png"
 
 # google map
