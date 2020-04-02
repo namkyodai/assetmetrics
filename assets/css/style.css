@@ -1043,15 +1043,21 @@ a:hover {
 .member-photo:hover img {
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
+  /* max-width: 100%;
+  max-height: 100%; */
 }
 
 .member-photo img {
   transition: all 0.4s ease 0s;
+  /* max-width: 100%;
+  max-height: 100%; */
 }
 
 @media (max-width: 768px) {
   .member-photo img {
     display: inline-block;
+    /* max-width: 100%;
+    max-height: 100%; */
   }
 }
 
@@ -2002,6 +2008,8 @@ blockquote {
 figure img {
   display: block;
   margin: 0 auto 5px;
+  /* max-width: 100%; */
+  /* max-height: 100%; */
 }
 
 figcaption {
