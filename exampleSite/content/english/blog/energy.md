@@ -1,5 +1,9 @@
 ---
 title: Energy Audit
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 ---
 
 ### Energy Audit for Buildings

@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
+layout: post
 title: "Technical Due Diligence (TDD)"
 subtitle: ""
 summary: "Technical Due Diligence (TDD) is an engineering management process for evaluation and assessment on operation and condition of assets of engineering systems (e.g. buildings, industrial plants, factories). TDD can be considered as a simple application of the Asset Management Framework."
@@ -12,6 +12,10 @@ lastmod: 2020-02-08T08:57:31+08:00
 featured: false
 draft: false
 
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 
 ---
 
