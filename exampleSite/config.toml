@@ -62,10 +62,10 @@ weight = 4
 # URL = "portfolio"
 # weight = 3
 #
-# [[menu.main]]
-# name = "Team"
-# URL = "team"
-# weight = 4
+[[menu.main]]
+name = "Team"
+URL = "team"
+weight = 6
 
 # [[menu.main]]
 # name = "Pricing"
@@ -77,15 +77,15 @@ name = "Blog"
 URL = "blog"
 weight = 5
 
-[[menu.static]]
-name = "Link"
-URL = "https://namkyodai.netlify.com"
-weight = 7
+# [[menu.static]]
+# name = "Link"
+# URL = "https://namkyodai.netlify.com"
+# weight = 7
 
 [[menu.static]]
 name = "Library"
 URL = "/library"
- weight = 6
+ weight = 7
 
  [[menu.static]]
  name = "We Offer"
