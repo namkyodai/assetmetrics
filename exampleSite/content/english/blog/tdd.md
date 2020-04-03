@@ -47,7 +47,7 @@ The figure below gives a quick snapshot on how to deliver the work.
 In many cases, Clients might extend a TDD service to include legal and commercial aspects.
 
 ## Example
-In an effort to automate the TDD process in my company (Arcadis), I used R to code real examples for a few number of Clients (including a Global Investment Capital Firm and a Japanese company with its main business in railway but wanna to expand into real estate business in the Philippines)
+In an effort to automate the TDD process in my team, I used R to code real examples for a few number of Clients (including a Global Investment Capital Firm and a Japanese company with its main business in railway but wanna to expand into real estate business in the Philippines)
 
 Three major projects I worked for these two Clients involves
 

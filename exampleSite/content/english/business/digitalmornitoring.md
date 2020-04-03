@@ -39,11 +39,11 @@ slides: ""
 ---
 ## Drones & Data Optimization
 
-> By leveraging drone technology, organizations can mitigate risk through innovative data collection, management and visualization. From site surveying and evaluation, construction project monitoring, site safety audits and volumetric analysis, Arcadis' drone and data optimization capabilities have incredible potential in the engineering and consultancy industry.
+> By leveraging drone technology, organizations can mitigate risk through innovative data collection, management and visualization. From site surveying and evaluation, construction project monitoring, site safety audits and volumetric analysis, drone and data optimization capabilities have incredible potential in the engineering and consultancy industry.
 
-Surveying large areas of land, property or industrial sites can be time consuming and costly. Arcadis' drone and data optimization capabilities in Southeast Asia reshapes the realities of site surveying, inspections and analysis while improving productivity and reporting.
+Surveying large areas of land, property or industrial sites can be time consuming and costly. Drone and data optimization capabilities in Southeast Asia reshapes the realities of site surveying, inspections and analysis while improving productivity and reporting.
 
-Small unmanned aircraft systems (sUAS), commonly known as drones serve as a first step in more efficient, cost-effective and thorough data collection. Arcadis’ comprehensive and scalable approach towards data collection, management and visualization works together to unlock the full potential of digital for our clients’ projects. When used correctly, digital solutions like drones enable faster, safer, simpler and more informed management of your natural and built assets.
+Small unmanned aircraft systems (sUAS), commonly known as drones serve as a first step in more efficient, cost-effective and thorough data collection. The comprehensive and scalable approach towards data collection, management and visualization works together to unlock the full potential of digital for our clients’ projects. When used correctly, digital solutions like drones enable faster, safer, simpler and more informed management of your natural and built assets.
 
 Combining our industry expertise, state-of-the-art equipment and software, and CAAS certified drone pilots, we deliver accurate and timely data to enable our clients to achieve better business outcomes. Our digital innovations focus on harnessing high-quality data and turning it into actionable insights using innovative technology and methodology to optimize value for our clients.
 
@@ -67,7 +67,7 @@ KEY OUTCOMES
 
 Using drone technology, a major landfill project was able to better manage project progress and protect the health and safety of employees on-site. Check out this video to learn more about how drones can help transform the client experience.
 
-To learn more about our drone and data optimization solutions, feel free to contact [the team](le.nam@arcadis.com)
+To learn more about our drone and data optimization solutions, feel free to contact [the team](namlt@protonmail.ch)
 
 ![](/images/auditing/drone.png)
 
@@ -77,11 +77,11 @@ To learn more about our drone and data optimization solutions, feel free to cont
 > Automatic damage recognition makes road inspections faster, cheaper and more objective. With the aid of artificial intelligence (AI), road authorities can thus save hundreds of millions of euros in maintenance. What's more, carrying out less maintenance and in good time means fewer traffic jams.
 
 
-The model that Arcadis has employed for highways and roads authorities automatically recognizes the type of damage, type of repair and other assets on or alongside the road. For instance the type of road markings and street furniture. The images are analyzed at the push of a button using a software module developed in-house. As a result, visual inspections can be carried out cheaper and more safely, roads can be inspected faster and more easily and road authorities can intervene more quickly, preventing more major repairs.
+The model that the team has employed for highways and roads authorities automatically recognizes the type of damage, type of repair and other assets on or alongside the road. For instance the type of road markings and street furniture. The images are analyzed at the push of a button using a software module developed in-house. As a result, visual inspections can be carried out cheaper and more safely, roads can be inspected faster and more easily and road authorities can intervene more quickly, preventing more major repairs.
 ![](/images/auditing/gopro.png)
 
 ### How does the method work?
-Images are taken with a camera of a certain road section using annual images from CycloMedia or with a GoPro. These images are then read in to a custom developed software module, which is based on an image database that the Arcadis experts have filled with data on inspected roads. This is used by the deep neural network model to automatically recognize road defects and assets.
+Images are taken with a camera of a certain road section using annual images from CycloMedia or with a GoPro. These images are then read in to a custom developed software module, which is based on an image database that our experts have filled with data on inspected roads. This is used by the deep neural network model to automatically recognize road defects and assets.
 
 The model determines the exact location of the defect, the type of defect, the extent of the defect and ultimately the recommended maintenance measure. Based on the results visualized in GIS, the asset manager can take immediate action. The results and the internal properties (such as service life and use) and the external properties (such as type of soil and salinization) are the basis for a machine learning model. Using historical data, this model can calculate the deterioration of roads, allowing road authorities to draw up a predictive maintenance plan.
 

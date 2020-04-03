@@ -4,13 +4,13 @@ about:
   title : About Us
   about_item :
   - icon : ti-ruler-alt-2 # themify icon pack : https://themify.me/themify-icons
-    title : We're Engineers
-    content : Civil, Structure, Mechanical, Electrical, Fire Protection, Reliability, HAVC, Plumping, Asset Management, Technical Due Diligence.
+    title : We're Owner Engineers
+    content : Senior and licensed engineers in various engineering desciplines are capable of conducting accurate measurement, testing, and evaluation of engineering systems.
 
   - icon : ti-ink-pen # themify icon pack : https://themify.me/themify-icons
     title : We're Data Scientists
-    content : We apply various data engineering and business analytical platforms to derive the best outcomes (R, Python, MySQL, MongdoDB, Tableu, PowerBI).
+    content : We assist Clients in making good decisions on operation and management of assets by applying Data Analytics, Statistic Inference Analysis, and Reliability Modelling.
 
   - icon : ti-agenda # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : We are attentive and punctual in providing adequate level of services to Clients, working with Clients using Agile management practice and collaboration.
+    title : We're Punctual & Professional
+    content : We are attentive and punctual in providing adequate level of services to Clients, working with Clients as One Team using Agile management practice and collaboration.

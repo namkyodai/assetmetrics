@@ -134,9 +134,7 @@ Aside from performing visual inspection and studying the operational data, testi
 Many engine-generators are designed with the Reciprocating Engine. This type of engine requires testing to be done by mechanical specialist on reciprocating and rotating equipment.
 
 In addition to visual inspection, we are capable of providing reliability engineers who can perform testing and inspection for GENSET with reciprocating and rotating engines.
-<!-- #### Projects
-List of projects executed by Arcadis's team members and collaborators on mechanical audits includes
- -->
+
 
  | ![](/images/auditing/genset01.png)|![](/images/auditing/genset02.png)
  |:---:|:---:|

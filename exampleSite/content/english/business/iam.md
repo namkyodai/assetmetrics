@@ -14,7 +14,7 @@ image: images/business/iam.jpg
 <!-- ![](/images/business/iso55000.png) -->
 > **Asset Management is the optimal allocation of the scarce budget between the new arrangement of asset and rehabilitation/maintenance of the existing assets to maximize the value of the stock of assets and to realize the maximum outcomes for the stakeholders.**
 
-Arcadis is capable of providing asset management services for various types of engineering and infrastructure systems such as water and waste water utilities (Water Treatment Plants, Pump Stations, and Pipeline), mechanical and electrical assets of industrial plants, bridge and pavement systems, and building assets.
+We are capable of providing asset management services for various types of engineering and infrastructure systems such as water and waste water utilities (Water Treatment Plants, Pump Stations, and Pipeline), mechanical and electrical assets of industrial plants, bridge and pavement systems, and building assets.
 
 Our services encompasses
 

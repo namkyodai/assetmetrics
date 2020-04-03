@@ -46,7 +46,7 @@ slides: ""
 ## The Project
 Bayer House is a five-storey office used building with an approximate building floor area of 4,624 square meter which was occupied at year 1999. The building is a bearing wall system with flat slab and is located approximately 5.6 km away from the main active seismic source which is the is the East and West Marikina Valley Fault System.
 
-Arcadis has been appointed by Bayer Philippines Incorporated to carry out structural assessment of the building to be in line with the latest National Structural Code of Philippines (NSCP 2010) and to propose a concept level structural upgrading and strengthening measures to avoid any severe damage to the existing building during earthquake; conduct due diligence on the Mechanical, Electrical, Plumbing and Fire Protection (MEPF) services; and provide a proposal on the retrofitting design and details for all structural elements that are found to be structurally insufficient under the building code.
+The team has been appointed by Bayer Philippines Incorporated to carry out structural assessment of the building to be in line with the latest National Structural Code of Philippines (NSCP 2010) and to propose a concept level structural upgrading and strengthening measures to avoid any severe damage to the existing building during earthquake; conduct due diligence on the Mechanical, Electrical, Plumbing and Fire Protection (MEPF) services; and provide a proposal on the retrofitting design and details for all structural elements that are found to be structurally insufficient under the building code.
 
 ## Objectives
 The purpose of this due diligence is to identify any material deficiency and the conditions of the subject property. The practice in this report consists of the following components:
@@ -68,7 +68,7 @@ The evaluation is limited to the assessment of the structure’s performance aga
 * MEPF Assessment:
   *	Building permission (compliance with building codes & regulations, test certificates; fire department certification, elevator certification);
   *	Acceptance of authorities and / or experts;
-  *	Directly visible deviation from building permission requirements, identified by Arcadis during the site visit.
+  *	Directly visible deviation from building permission requirements, identified by the team during the site visit.
 
 The review of regulatory requirements will be focused on potential material issues, i.e. issues that hold a financial risk above threshold.
 

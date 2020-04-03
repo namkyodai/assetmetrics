@@ -115,7 +115,7 @@ Through the energy audit, we will recommend Clients on Benchmarking strategies f
 [Read More](/blog/energy)
 
 ### [Road and Bridge Condition Inspection](/blog/roadbridge)
-Road and Bridge condition and distresses (e.g. cracking, roughness, unevenness, potholes) can be conveniently captured, thanks to the utilization of high definition camera and drone technology. Arcadis team has developed an advanced image recognition algorithm and a structured dataset to record great amount of data on distresses, which will be later used for deterioration prediction and determination of optimal preventive intervention strategies.
+Road and Bridge condition and distresses (e.g. cracking, roughness, unevenness, potholes) can be conveniently captured, thanks to the utilization of high definition camera and drone technology. Our team has developed an advanced image recognition algorithm and a structured dataset to record great amount of data on distresses, which will be later used for deterioration prediction and determination of optimal preventive intervention strategies.
 
 | ![](/images/auditing/roadinspection.png)|![](/images/auditing/bridgeinspection.png)
 |:---:|:---:|

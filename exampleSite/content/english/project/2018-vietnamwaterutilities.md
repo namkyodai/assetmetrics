@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "TDD for Water Network and Utilities in Vietnam"
-summary: "Olympus Capital engaged Arcadis to conduct a technical due diligence on the various Water Treatment Plants (WTPs) in Vietnam. These WTPs are under the ownership of DNP Corporation."
+summary: "Olympus Capital engaged our team to conduct a technical due diligence on the various Water Treatment Plants (WTPs) in Vietnam. These WTPs are under the ownership of DNP Corporation."
 authors: []
 tags: [TDD, Water Utilities, Cost Analysis, Visual Inspection]
 categories: [Technical Due Diligence, Water Utilities]
@@ -46,7 +46,7 @@ slides: ""
 
 ## The Project
 
-Olympus Capital engaged Arcadis to conduct a technical due diligence on the various Water Treatment Plants (WTPs) in Vietnam. These WTPs are under the ownership of DNP Corporation.
+Olympus Capital engaged our team to conduct a technical due diligence on the various Water Treatment Plants (WTPs) in Vietnam. These WTPs are under the ownership of DNP Corporation.
 
 DNP Corporation is an investment holding company, operating in four key business areas: clean water supply; production of plastic pipes and fittings; engineering & industrial plastic products; export plastic packaging bags. DNP-Water is a member unit of DNP, specializing in water sector investment. Currently DNP-Water owns two water plants including Binh Hiep Water Plant (Binh Thuan), Dong Tam Water Plant (Tien Giang) with total capacity of 140,000 m3/day. In addition, DNP Water is also building two new water treatment plants in Bac Giang and Long An with a total capacity of 120,000 m3/day, which is expected to begin operation by the end of 2018.
 

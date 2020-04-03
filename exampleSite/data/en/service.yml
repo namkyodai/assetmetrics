@@ -12,12 +12,12 @@ service:
     # service item loop
     - name : Due Diligence
       icon : ti-check-box # themify icon pack : https://themify.me/themify-icons
-      content : Assisting Clients on strategic decisions on Acquisition, Occupation, Disposal, and Development of Properties through Environmental & Technical Due Diligence.
+      content : Assisting Clients on strategic decisions on Acquisition, Occupation, Disposal, and Development of Properties through Due Diligence evaluation process.
 
     # service item loop
-    - name : Building &amp; Plant Audits
+    - name : Testing & Auditing
       icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
-      content : Providing various types of tests for buildings and engineering systems to capture assets reliability & efficiency, then proposing improvement programs for saving OPEX.
+      content : We conduct inspection and testing for buildings and engineering systems to capture assets reliability & efficiency and compliance to applied standards.
 
     # service item loop
     - name : Data Analytics
@@ -27,7 +27,7 @@ service:
     # service item loop
     - name : Digital Monitoring
       icon : ti-camera # themify icon pack : https://themify.me/themify-icons
-      content : Utilizing global digital platform and solutions and frontier development on monitoring technique for engineering systems such as the use of drone for carrying out inspections on road sections, bridges, and other engineering systems.
+      content : Utilizing digital platform and frontier development on monitoring technique for engineering systems such as the use of drone for carrying out inspections on road sections, bridges, and other engineering systems.
 
     # service item loop
     - name : Traffic Impact Assessment
