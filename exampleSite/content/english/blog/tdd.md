@@ -9,8 +9,8 @@ tags: [TDD, Asset Management]
 categories: []
 date: 2020-02-08T08:57:31+08:00
 lastmod: 2020-02-08T08:57:31+08:00
-featured: false
-draft: false
+image_webp: https://www.aiche.org/sites/default/files/images/webinar/shutterstock314175392.jpg
+image: https://www.aiche.org/sites/default/files/images/webinar/shutterstock314175392.jpg
 
 
 # Featured image

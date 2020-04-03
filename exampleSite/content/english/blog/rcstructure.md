@@ -8,16 +8,8 @@ tags: [Plant Audit, Asset Management, Monitoring, Inspection, Concrete Structure
 categories: [Asset Management, Plant Audit]
 #date: 2019-10-19T11:08:22+08:00
 
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image_webp: https://www.testbytes.net/wp-content/uploads/2020/01/structural-testing-1280x720.png
+image: https://www.testbytes.net/wp-content/uploads/2020/01/structural-testing-1280x720.png
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

@@ -5,10 +5,8 @@ title: Fuel Efficiency - Regression Analysis
 subtitle: Data Mining and Business Analytics with R
 date: 2019-10-10T23:30:45+08:00
 tags: [Regression Analysis]
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image_webp: https://i.dailymail.co.uk/i/pix/2014/10/08/1412756386580_wps_70_MPG_graphic_jpg.jpg
+image: https://i.dailymail.co.uk/i/pix/2014/10/08/1412756386580_wps_70_MPG_graphic_jpg.jpg
 #summary : "  "
 ---
 

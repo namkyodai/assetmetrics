@@ -6,11 +6,8 @@ subtitle: Window
 date: 2019-10-10T23:30:45+08:00
 tags: [Window]
 #summary : "  "
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image_webp: https://helpdeskgeek.com/wp-content/pictures/2019/02/notepad-script.png
+image: https://helpdeskgeek.com/wp-content/pictures/2019/02/notepad-script.png
 ---
 
 In many cases, we need to remove space in the names of files saved inside a tree of folders/subfolders. We can use following CODE to do the job.

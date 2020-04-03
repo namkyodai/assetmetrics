@@ -5,6 +5,8 @@ image:
   focal_point: ""
   preview_only: false
 #summary : "  "
+image_webp: https://energyoptusa.com/wp-content/uploads/2019/05/bigstock-173632751-1.jpg
+image: https://energyoptusa.com/wp-content/uploads/2019/05/bigstock-173632751-1.jpg
 ---
 
 ### Energy Audit for Buildings

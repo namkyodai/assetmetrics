@@ -7,16 +7,8 @@ tags: [Plant Audit, Asset Management, Monitoring, Inspection]
 categories: [Asset Management, Plant Audit]
 date: 2020-02-11T11:08:22+08:00
 #summary : "  "
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image_webp: https://bwenergyservices.com/wp-content/uploads/2019/05/HydroTesting.jpg
+image: https://bwenergyservices.com/wp-content/uploads/2019/05/HydroTesting.jpg
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
