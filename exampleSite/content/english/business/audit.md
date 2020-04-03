@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Building and Plant Audits"
-summary: "Providing various types of tests for buildings and engineering systems to capture reliability, operational efficiency of assets, then proposing improvement programs for saving energy and operational costs"
+summary: "We conduct inspection and testing for buildings and engineering systems to capture assets reliability & efficiency and compliance to applied standards"
 authors: []
 tags: [Plant Audit, Asset Management, Monitoring, Inspection]
 categories: [Asset Management, Plant Audit]

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Technical Due Diligence"
-summary: "Assisting Clients on strategic decisions on Acquisition, Occupation, Disposal, and Development of Properties"
+summary: "Assisting Clients on strategic decisions on Acquisition, Occupation, Disposal, and Development of Properties through Due Diligence evaluation process"
 authors: []
 tags: [Technical Due Diligence]
 categories: [Technical Due Diligence]

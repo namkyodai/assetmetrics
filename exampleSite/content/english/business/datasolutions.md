@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Data Solutions and Analytics"
-summary: "Using time series and panel dataset on engineering's parameters and variables of system, we can detect trends, establish correlation, and perform inference analysis"
+summary: "Using time series and panel dataset on engineering's parameters and variables of system, we can detect trends, establish correlation, and perform inference analysis that will support Clients on arriving at optimal business solutions"
 authors: []
 tags: [Data Solutions and Analytics, Big Data Analysis, Operations Research]
 categories: [Data Solutions and Analytics]

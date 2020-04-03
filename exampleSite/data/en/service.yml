@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : Asset Management
       icon : ti-dashboard # themify icon pack : https://themify.me/themify-icons
-      content : Determination of Optimal Preventive Intervention based on ISO 55000, RbAM, APM, Reliability Engineering, Optimization, Statistics, Preventive Intervention.
+      content : We apply state-of-the art Asset Management concept and practice to help Clients to standalize operation and mantainance process for sustainable growth.
     #  link: ""
 
     # service item loop

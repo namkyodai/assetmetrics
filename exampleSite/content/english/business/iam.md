@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Asset Management"
-summary: "Determination of Optimal Preventive Intervention based on ISO 55000, RbAM, APM, Reliability Engineering, Optimization, Statistics, Preventive Intervention"
+summary: "We apply state-of-the art Asset Management concept and practice to help Clients to standalize operation and mantainance process for sustainable growth"
 #authors: []
 tags: [Project Management, Plant Audit, Asset Management, Water]
 categories: [Asset Management]

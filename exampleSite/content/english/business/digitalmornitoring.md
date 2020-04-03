@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Digital Monitoring"
-summary: "Utilizing global digital platform and solutions and frontier development on monitoring technique for engineering systems"
+summary: "Utilizing digital platform and frontier development on monitoring technique for engineering systems such as the use of drone for carrying out inspections on road sections, bridges, and other engineering systems"
 authors: []
 tags: [Digital Monitoring, Drone Technology, Visual Inspection]
 categories: [Visual Inspection, Asset Management, Monitoring]
