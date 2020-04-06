@@ -5,7 +5,7 @@ about:
   about_item :
   - icon : ti-ruler-alt-2 # themify icon pack : https://themify.me/themify-icons
     title : We're Owner Engineers
-    content : Senior and licensed engineers in various engineering desciplines are capable of conducting accurate measurement, testing, and evaluation of engineering systems.
+    content : Senior and licensed engineers in various engineering disciplines are capable of conducting accurate measurement, testing, and evaluation of engineering systems.
 
   - icon : ti-ink-pen # themify icon pack : https://themify.me/themify-icons
     title : We're Data Scientists

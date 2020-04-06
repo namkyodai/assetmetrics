@@ -21,9 +21,9 @@ Our services encompasses
 -	Asset inspection and monitoring for capturing physical condition and operational condition of assets.
 -	Development of asset hierarchy and classification.
 -	Preparation of blue-print and strategic framework for organizations aiming to establish a long-term integrated asset management.
--	Reliability study and modelling based on both qualitative and quantitative approaches;
+-	Reliability study and modelling based on both qualitative and quantitative approaches.
 - [Weibull analysis](/apps/weibulllcc).
--	Fault Tree and Event Tree analysis;
+-	Fault Tree and Event Tree analysis.
 -	Deterioration prediction and modelling based on historical, inspection and monitoring data.
 -	Life cycle cost estimation and calculation of Return on Investment.
 -	Determination of optimal intervention programs.

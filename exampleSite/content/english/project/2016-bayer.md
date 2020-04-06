@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Detailed Engineering Evaluation of Hangar Facility (Subic)"
+title: "Technical Due Diligence for Bayer House"
 summary: "Bayer House is a five-storey office used building with an approximate building floor area of 4,624 square meter which was occupied at year 1999. The building is a bearing wall system with flat slab and is located approximately 5.6 km away from the main active seismic source which is the is the East and West Marikina Valley Fault System."
 authors: []
 tags: [Structural Assessment, Structural Modelling, MEPF system assessment, Cost Analysis]

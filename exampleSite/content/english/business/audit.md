@@ -70,7 +70,7 @@ Our auditing services include Visual Inspection, Desktop study on historical rec
   - Food and Medical facilities
   - Oil & Gas stations
   - Chemical and Process Plants and Chillers systems
-  - Water Distribution Networks and Utilities (e.g. Water Treatment Plants, Waste Water Treatment Plants, Pump Stations and Reservoirs, Pipelines)
+  - Water Distribution Networks and Utilities (e.g. Water Treatment Plants, Wastewater Treatment Plants, Pump Stations and Reservoirs, Pipelines)
   - Retail and Shopping Malls
   - Commercial, BPOs,  Real Estate properties
 

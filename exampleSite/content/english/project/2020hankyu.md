@@ -26,7 +26,7 @@ The Client engaged the team to perform an extensive TDD work to evaluate the con
 
 The project has been conducted within 3 weeks including 1-2 weeks jointed visual inspection and assessment to the site and 1 week analyzing and reporting the findings.
 
-Based on the findings, the team has helped the Client in arriving at optimal decision regarding the strategy on commercial negociation with the building's owners.
+Based on the findings, the team has helped the Client in arriving at optimal decision regarding the strategy on commercial negotiation with the building's owners.
 
 ### Objectives
 - Visual Inspection

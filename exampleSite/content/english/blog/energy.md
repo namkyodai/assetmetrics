@@ -16,7 +16,7 @@ solutions to optimize their energy usage providing a range of benefits to the
 building owner and occupants.
 
 The audits come with three different levels of comprehensiveness. Every building
-and building owner is different and is looking to archive different objectives.
+and building owner is different and is looking to achieve different objectives.
 For some it is essential for commercial viability, for others something they
 would like some expert inputs on before considering further. We have detailed
 the options below:
